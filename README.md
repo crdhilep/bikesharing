@@ -42,7 +42,7 @@ The results of the analysis and visualizations are shown below:
 
  ### Checkout Times by Gender:
 
-- Male commuters are utilizing bikes rental higer to other genders
+- Male commuters are utilizing bikes rental higher when compare to other genders
  
 ![Checkout Times by Gender](resources/CheckoutTimesByGender.png)
 
@@ -62,4 +62,5 @@ The results of the analysis and visualizations are shown below:
 
 - Majority of the customers are Subscribers and Peak times are around morning and Evenings
 - Maintance should be Takesn place during Early Moring Hours. Prefered Midnight to 5 AM Local Time
+- Most of our commuters are male customers, when marketing we can use that data to Target audience and provide services on their comfort
 - Base on data, most of the commuters are working in NYC, so its good to have stations set within 10 mins apart
